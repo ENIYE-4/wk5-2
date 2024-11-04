@@ -1,0 +1,2 @@
+const statesInNigeria = ["Abia State","Adamawa State","Akwa-ibom State","Anambra state","Bauchim State","Bayelsa State","Benue State","Borno State","Cross river","Delta State","Ekiti State","Ebonyi State","Edo State","Gombe State","Imo State","Jigawa State","Kaduna State","Kastina State","Kano State","kebbi State","Kogi state","Kwara State","Lagos State","Nassarawa State","Niger state","Ogun State","Ondo State","Osun State","Oyo State","PLateau State","Rivers State","Sokoto State","Taraba State","Yobe State","Zamfara state"]
+console.log(statesInNigeria);
